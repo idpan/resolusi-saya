@@ -1,0 +1,4 @@
+resolusi saya tahun ini
+-menguasai HTML
+-menguasai CSS
+-menguasai Javascript
